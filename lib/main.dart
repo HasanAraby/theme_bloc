@@ -5,6 +5,7 @@ import 'package:theme_bloc/core/theme/bloc/theme_bloc.dart';
 
 import 'home.dart';
 
+//
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await intiateCache();
