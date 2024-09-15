@@ -9,6 +9,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await intiateCache();
   runApp(const MyApp());
+  //////
 }
 
 class MyApp extends StatelessWidget {
